@@ -13,4 +13,4 @@ Place your css & js files in the /public directory and then simply do the follow
 @asset('web/js/basic.js')
 
 This will load the files with the appropriate html tag and auto append a version identifier based on the time the file was last updated. For example:  
-`https://example.com/web/css/styles.css**?v=1755474797**`
+https<!-- -->://<!-- -->example<!-- -->.com<!-- -->/web/css/styles.css?**v=1755474797**
